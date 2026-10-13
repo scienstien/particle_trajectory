@@ -5,7 +5,7 @@ A modular Python application for simulating particle trajectories in a 2D fluid 
 
 
 <div class="animation" align="center">
-  <img src="assets/animation.gif"></img> 
+  <img src="assets/animation.gif" width="360"></img> 
 </div>
 ## Features
 
