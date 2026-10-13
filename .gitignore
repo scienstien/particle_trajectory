@@ -8,3 +8,25 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Output files
+output/
+*.png
+*.gif
+*.xlsx
+*.csv
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
