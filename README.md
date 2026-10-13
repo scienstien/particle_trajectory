@@ -4,7 +4,7 @@
 A modular Python application for simulating particle trajectories in a 2D fluid using Forward Euler and Classical RK4 integration methods.
 
 
-<div class="animation" align="center">
+<div align="center">
   <img src="assets/animation.gif" width="360"></img> 
 </div>
 ## Features
