@@ -12,7 +12,6 @@ wheels/
 # Output files
 output/
 *.png
-*.gif
 *.xlsx
 *.csv
 *.json
